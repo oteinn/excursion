@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+
+.title p {
+  color: white;
+  font-weight: 300;
+  font-family: Verdana;
+  font-size: 42px;
+}
+
+.main a {
+color: Aquamarine;
+font-family: Verdana;
+font-size: 16px;
+}
+
+.sub p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
